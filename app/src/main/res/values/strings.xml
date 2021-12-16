@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">CuurentLocation</string>
-
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-
-    <string name="location_updated" translatable="false">Location Updated: %1$s</string>
-</resources>
